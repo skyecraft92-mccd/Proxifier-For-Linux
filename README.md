@@ -2,6 +2,8 @@
 
 **proxifier - Proxifier For Linux**
 
+**if you get "no c complier found"**
+**https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/**
 ## Overview
 
 * proxifier acts as an intermediate between the proxy servers and client programs.
